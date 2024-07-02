@@ -27,4 +27,4 @@
 
 # Deployment
 
-- Deployed to _evennode_
+- Deployed to _fly.io_ 
