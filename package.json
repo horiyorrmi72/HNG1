@@ -1,0 +1,20 @@
+{
+  "name": "simple_web_server",
+  "version": "1.0.0",
+  "description": "hng stage one task to create a basic web server that sends back requester ip in the response",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "horla",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-json": "^1.0.0",
+    "geoip-lite": "^1.4.10"
+  }
+}
